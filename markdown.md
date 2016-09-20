@@ -1,6 +1,5 @@
 # This is my markdown file 
 ## This is a story about me 
-<<<<<<< HEAD
 
 My name is **Jessica Sedem Agbanu** and I am from *Ghana*
 

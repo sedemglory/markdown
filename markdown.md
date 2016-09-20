@@ -1,5 +1,6 @@
 # This is my markdown file 
 ## This is a story about me 
+<<<<<<< HEAD
 
 My name is **Jessica Sedem Agbanu** and I am from *Ghana*
 
@@ -23,3 +24,5 @@ Here's my picture
 
 And I'm Happy
 :laughing:
+=======
+>>>>>>> b56f03a36db7a39a4f20fb0b6eb5c5cb4702a40e
